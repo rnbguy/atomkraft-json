@@ -1,0 +1,2 @@
+trace = "traces/Ex/violation1.itf.json"
+model = "models/transfer.tla"
